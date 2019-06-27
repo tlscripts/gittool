@@ -5,8 +5,7 @@ This is my personal git tool for uploading projects to github. This should only 
 * Make sure this script is run from the same level directory that your other git project folders are.
 * Written in python 3.6.7
 
-![image]
-(gittool.png)
+![image](https://github.com/tlscripts/gittool/blob/master/gittool.png)
 
 
 
